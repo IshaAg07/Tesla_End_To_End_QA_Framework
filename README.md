@@ -148,8 +148,3 @@ Project: *Tesla End-to-End QA Framework*
 
 ---
 
-```
-
-
-👉 Do you want me to also give you a **short “Project Summary Pitch” (2 min script)** you can speak in the interview, so it matches what’s in this README?
-```
